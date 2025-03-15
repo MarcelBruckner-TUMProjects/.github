@@ -2,7 +2,7 @@
 
 Find here all projects I did during my studies:
 - **[Automated Camera Stabilization and Calibration for Intelligent Transportation Systems](https://github.com/MarcelBruckner-TUMProjects/Automated-Camera-Stabilization-and-Calibration-for-Intelligent-Transportation-Systems)**:  
-  These projects were developed as part of the [Providentia++](https://innovation-mobility.com/projekt-providentia/) research project during my Guided Research at the [Chair of Robotics, Artificial Intelligence, and Real-Time Systems](https://www.in.tum.de/en/i06/home/).  
+  These projects were developed as part of the [Providentia++](https://innovation-mobility.com/projekt-providentia/) research project during my Guided Research at the [Chair of Robotics, Artificial Intelligence, and Real-Time Systems](https://www.in.tum.de/en/i06/home/). Later, we documented our work in our paper [An Online Self-Correcting Calibration Architecture for Multi-Camera Traffic Localization Infrastructure](https://ieeexplore.ieee.org/document/10588435) and successfully submitted it at [IEEE Intelligent Vehicles Symposium](https://ieee-iv.org/2024/).
   - **[Static Calibration](https://github.com/MarcelBruckner-TUMProjects/StaticCalibration)** focuses on the static calibration of sensor data, particularly to improve positioning accuracy in autonomous driving systems.  
   - **[Dynamic Stabilization](https://github.com/MarcelBruckner-TUMProjects/DynamicStabilization)** deals with stabilizing sensor measurements in dynamic environments to ensure consistent and precise data acquisition.
 
