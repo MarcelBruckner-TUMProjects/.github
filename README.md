@@ -1,10 +1,10 @@
 # TUM Projects
 
 Find here all projects I did during my studies:
-- **[StaticCalibration](https://github.com/MarcelBruckner-TUMProjects/StaticCalibration) and [DynamicStabilization](https://github.com/MarcelBruckner-TUMProjects/DynamicStabilization)**:  
+- **[Automated Camera Stabilization and Calibration for Intelligent Transportation Systems](https://github.com/MarcelBruckner-TUMProjects/Automated-Camera-Stabilization-and-Calibration-for-Intelligent-Transportation-Systems)**:  
   These projects were developed as part of the [Providentia++](https://innovation-mobility.com/projekt-providentia/) research project during my Guided Research at the [Chair of Robotics, Artificial Intelligence, and Real-Time Systems](https://www.in.tum.de/en/i06/home/).  
-  - **StaticCalibration** focuses on the static calibration of sensor data, particularly to improve positioning accuracy in autonomous driving systems.  
-  - **DynamicStabilization** deals with stabilizing sensor measurements in dynamic environments to ensure consistent and precise data acquisition.
+  - **[Static Calibration](https://github.com/MarcelBruckner-TUMProjects/StaticCalibration)** focuses on the static calibration of sensor data, particularly to improve positioning accuracy in autonomous driving systems.  
+  - **[Dynamic Stabilization](https://github.com/MarcelBruckner-TUMProjects/DynamicStabilization)** deals with stabilizing sensor measurements in dynamic environments to ensure consistent and precise data acquisition.
 
 - **[OpenDRIVE](https://github.com/MarcelBruckner-TUMProjects/OpenDRIVE)**:  
   A side project of my Guided Research, implementing a parser for the [OpenDRIVE 1.6](https://www.asam.net/index.php?eID=dumpFile&t=f&f=3495&token=56b15ffd9dfe23ad8f759523c806fc1f1a90a0e8#) standard.  
